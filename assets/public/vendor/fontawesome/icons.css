@@ -1,0 +1,24 @@
+/*!
+ * Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ * Copyright 2024 Fonticons, Inc.
+ */
+@font-face{font-family:"Font Awesome 6 Free";font-style:normal;font-weight:900;font-display:block;src:url("./fa-solid-900.woff2") format("woff2")}
+.fa-solid{font-family:"Font Awesome 6 Free"!important;font-style:normal;font-weight:900!important;font-variant:normal;line-height:1;text-rendering:auto;-webkit-font-smoothing:antialiased;display:inline-block}.fa-solid:before{content:var(--fa)}
+.fa-arrow-right{--fa:"\f061"}
+.fa-arrow-up{--fa:"\f062"}
+.fa-arrow-up-right-from-square{--fa:"\f08e"}
+.fa-bars{--fa:"\f0c9"}
+.fa-building{--fa:"\f1ad"}
+.fa-check{--fa:"\f00c"}
+.fa-chevron-down{--fa:"\f078"}
+.fa-chevron-left{--fa:"\f053"}
+.fa-chevron-right{--fa:"\f054"}
+.fa-envelope{--fa:"\f0e0"}
+.fa-expand{--fa:"\f065"}
+.fa-location-dot{--fa:"\f3c5"}
+.fa-phone{--fa:"\f095"}
+.fa-shield-halved{--fa:"\f3ed"}
+.fa-xmark{--fa:"\f00d"}
+
+.fa-star{--fa:"\f005"}

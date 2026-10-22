@@ -1,0 +1,82 @@
+[
+  {
+    "id": "detail-flocage-coupe-feu",
+    "title": "Flocage coupe-feu",
+    "value": "Flocage coupe-feu"
+  },
+  {
+    "id": "detail-flocage-thermique-acoustique",
+    "title": "Flocage thermique & acoustique",
+    "value": "Flocage thermique & acoustique"
+  },
+  {
+    "id": "detail-calorifugeage-cvc",
+    "title": "Calorifugeage des tuyauteries & réseaux CVC",
+    "value": "Calorifugeage CVC"
+  },
+  {
+    "id": "detail-gaines-promat-staff",
+    "title": "Gaines coupe-feu en PROMAT & STAFF",
+    "value": "Gaines coupe-feu / STAFF"
+  },
+  {
+    "id": "detail-conduits-desenfumage",
+    "title": "Conduits de désenfumage & ventilation",
+    "value": "Conduits de désenfumage"
+  },
+  {
+    "id": "detail-encoffrements-coupe-feu",
+    "title": "Encoffrements coupe-feu",
+    "value": "Encoffrements coupe-feu"
+  },
+  {
+    "id": "detail-isolation-combles",
+    "title": "Isolation soufflée des combles",
+    "value": "Isolation soufflée des combles"
+  },
+  {
+    "id": "detail-calfeutrement",
+    "title": "Calfeutrement coupe-feu",
+    "value": "Calfeutrement coupe-feu"
+  },
+  {
+    "id": "detail-joints-coupe-feu",
+    "title": "Joints de dilatation coupe-feu",
+    "value": "Joints de dilatation coupe-feu"
+  },
+  {
+    "id": "detail-isolation-thermique",
+    "title": "Isolation thermique",
+    "value": "Isolation thermique"
+  },
+  {
+    "id": "detail-isolation-acoustique",
+    "title": "Isolation acoustique",
+    "value": "Isolation acoustique"
+  },
+  {
+    "id": "detail-anti-condensation",
+    "title": "Traitement anti-condensation",
+    "value": "Anti-condensation"
+  },
+  {
+    "id": "detail-peinture-intumescente",
+    "title": "Peinture intumescente coupe-feu",
+    "value": "Peinture intumescente coupe-feu"
+  },
+  {
+    "id": "detail-insufflation-parois",
+    "title": "Insufflation dans les parois creuses",
+    "value": "Insufflation dans les parois creuses"
+  },
+  {
+    "id": "detail-panneaux-isolants",
+    "title": "Panneaux isolants rapportés",
+    "value": "Panneaux isolants rapportés"
+  },
+  {
+    "id": "detail-protection-passive",
+    "title": "Protection passive contre l’incendie",
+    "value": "Protection passive incendie"
+  }
+]
