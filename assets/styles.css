@@ -27,7 +27,7 @@
 .logo-group>div{width:155px;height:68px;display:flex;align-items:center;justify-content:center}
 .logo-group img{max-width:145px;max-height:55px;object-fit:contain;filter:grayscale(1);opacity:.8}
 .logo-group img:hover{filter:none;opacity:1}
-.hero h1{color:#ce1629}
+.hero h1{color:#ff8c00}
 @keyframes logos-right{from{transform:translateX(-50%)}to{transform:translateX(0)}}
 .logo-carousel:hover .logo-track,.logo-track.is-paused{animation-play-state:paused}
 .carousel-toggle{display:block;margin:16px 0 0 auto;background:none;border:0;border-bottom:1px solid #ccd8df;color:#687786;font-size:11px;padding:8px;min-height:36px}
