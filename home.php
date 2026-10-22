@@ -1,25 +1,4 @@
-<?php /* Template Name: SARL TBI Homepage */ ?>
-<!doctype html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8"/>
-  <meta name="viewport" content="width=device-width,initial-scale=1"/>
-  <meta name="theme-color" content="#092d45"/>
-  <meta name="description" content="SARL TBI : flocage coupe-feu, isolation thermique et acoustique, calorifugeage CVC, gaines Staff, encoffrements et prestations techniques. Devis à Villeneuve-Saint-Georges (94)."/>
-  <meta property="og:title" content="SARL TBI — Flocage coupe-feu & isolation technique"/>
-  <meta property="og:description" content="Protection passive incendie, calorifugeage et solutions techniques pour vos chantiers."/>
-  <meta property="og:type" content="website"/>
-  <meta property="og:image" content="<?php echo esc_url(get_template_directory_uri()); ?>/assets/public/images/hero/hero-chantier.webp"/>
-  <link rel="icon" type="image/svg+xml" href="<?php echo esc_url(get_template_directory_uri()); ?>/assets/public/images/brand/tbi-favicon.svg"/>
-  <link rel="preconnect" href="https://fonts.googleapis.com"/>
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet"/>
-  <link rel="preload" as="image" href="<?php echo esc_url(get_template_directory_uri()); ?>/assets/public/images/hero/hero-chantier.webp"/>
-  <link rel="stylesheet" href="<?php echo esc_url(get_template_directory_uri()); ?>/assets/public/vendor/fontawesome/icons.css"/><link rel="stylesheet" href="<?php echo esc_url(get_template_directory_uri()); ?>/assets/styles.css"/>
-  <title>SARL TBI | Flocage, calorifugeage & protection incendie — Devis</title>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"GeneralContractor","name":"SARL TBI","address":{"@type":"PostalAddress","streetAddress":"30 Rue Ernest Renan","postalCode":"94190","addressLocality":"Villeneuve-Saint-Georges","addressCountry":"FR"},"telephone":"+33761390004","email":"tbisarl94@gmail.com","description":"Travaux de flocage coupe-feu, isolation technique et calorifugeage pour les professionnels du bâtiment."}</script>
-</head>
-<body>
+<?php /* Template Name: SARL TBI Homepage */ get_header(); ?>
 
 
 <div class="topline"><div class="container topline-inner"><span><span class="live-dot"></span>PROTECTION INCENDIE & ISOLATION TECHNIQUE · ÎLE-DE-FRANCE</span><div class="topline-contacts"><a href="tel:+33761390004"><i class="icon icon-sm fa-solid fa-phone" aria-hidden="true"></i> +33 7 61 39 00 04</a><span class="topline-divider" aria-hidden="true"></span><a href="mailto:tbisarl94@gmail.com"><i class="icon icon-sm fa-solid fa-envelope" aria-hidden="true"></i> tbisarl94@gmail.com</a></div></div></div>
@@ -105,6 +84,4 @@
 </main><dialog id="quote-dialog" class="quote-dialog" aria-labelledby="quote-title"><button type="button" id="quote-close" class="quote-close" aria-label="Fermer le formulaire"><i class="icon fa-solid fa-xmark" aria-hidden="true"></i></button><div id="quote-slot"></div></dialog><div id="lead-confirmation" class="lead-confirmation" role="status" hidden>Merci, votre demande a bien été envoyée.</div>
 <footer class="site-footer footer-redesigned"><div class="container"><div class="footer-invitation"><div><span class="footer-eyebrow">UN BESOIN TECHNIQUE ?</span><h2>Parlons de votre prochain chantier.</h2></div><a href="#devis" class="btn btn-primary">Demander un devis <i class="icon fa-solid fa-arrow-right" aria-hidden="true"></i></a></div><div class="footer-main"><div class="footer-brand"><a href="#top" aria-label="SARL TBI — haut de page" class="footer-logo"><img src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/public/images/brand/tbi-footer.svg" alt="SARL TBI" width="110" height="90"/></a><p>Protection passive incendie et isolation technique pour les professionnels du bâtiment.</p><span class="footer-base">Villeneuve-Saint-Georges · Val-de-Marne</span></div><div class="footer-col"><h3>Découvrir TBI</h3><a href="/services.html">Nos 16 prestations</a><a href="/portfolio.html">Références en images</a><a href="/#approche">Notre approche</a><a href="/#dossier-technique">Préparer votre dossier</a><a href="/#faq">Questions fréquentes</a></div><div class="footer-col"><h3>Nos prestations</h3><a href="/services.html#detail-flocage-coupe-feu">Flocage coupe-feu</a><a href="/services.html#detail-calorifugeage-cvc">Calorifugeage CVC</a><a href="/services.html#detail-gaines-promat-staff">Gaines coupe-feu</a><a href="/services.html#detail-calfeutrement">Calfeutrement coupe-feu</a><a href="/#prestations-complementaires">Solutions complémentaires</a></div><div class="footer-col footer-contact"><h3>Contact direct</h3><span class="footer-contact-label">TÉLÉPHONE</span><a href="tel:+33761390004" class="footer-phone">+33 7 61 39 00 04</a><span class="footer-contact-label">E-MAIL</span><a href="mailto:tbisarl94@gmail.com">tbisarl94@gmail.com</a><span class="footer-contact-label">ADRESSE</span><address>30 Rue Ernest Renan<br/>94190 Villeneuve-Saint-Georges<br/>France</address></div></div><div class="footer-bottom"><span>© <span id="year">2026</span> SARL TBI. Tous droits réservés.</span><div><a href="/mentions-legales.html">Mentions légales</a><a href="/confidentialite.html">Confidentialité</a><a href="#top">Haut de page <i class="icon fa-solid fa-arrow-up" aria-hidden="true"></i></a></div></div></div></footer>
 <div class="mobile-cta" aria-label="Actions rapides"><a href="tel:+33761390004"><i class="icon fa-solid fa-phone" aria-hidden="true"></i> Appeler</a><a href="#devis">Demander un devis <i class="icon fa-solid fa-arrow-right" aria-hidden="true"></i></a></div>
-<script src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/content/cro-content.js" defer></script>
-<script src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/script.js" defer></script><script src="<?php echo esc_url(get_template_directory_uri()); ?>/assets/gallery.js" defer></script>
-</body></html>
+<?php get_footer(); ?>
